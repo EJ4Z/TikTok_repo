@@ -1,3 +1,3 @@
 # *TikTok_repo*
 practice
-**social media, entertainment*
+**social media, entertainment**
